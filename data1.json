@@ -1,25 +1,27 @@
-var myCar = {
-    "name": "Skyline GTR",
-    "brand": "Nissan",
-    "price": "4854000"
-};
-
-var myColor = ["blue", "red", "purple"];
-
-var myfriends = [
+[
     {
-        "name": "Mello",
-        "title": "Price",
-        "age": 26
+        "name": "Max Pro M1",
+        "brand": "ASUS",
+        "price": 13999
     },
     {
-        "name": "John",
-        "title": "Nathan",
-        "age": 24
+        "name": "Narzo 20A",
+        "brand": "Realme",
+        "price": 8499
     },
     {
-        "name": "Mary",
-        "title": "Rudd",
-        "age": 25
+        "name": "Honor Play",
+        "brand": "Huawei",
+        "price": 2799
+    },
+    {
+        "name": "Mi 10T Pro",
+        "brand": "Mi",
+        "price": 37999
+    },
+    {
+        "name": "C3",
+        "brand": "POCO",
+        "price": 7999
     }
 ]
