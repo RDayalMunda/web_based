@@ -1,0 +1,25 @@
+var myCar = {
+    "name": "Skyline GTR",
+    "brand": "Nissan",
+    "price": "4854000"
+};
+
+var myColor = ["blue", "red", "purple"];
+
+var myfriends = [
+    {
+        "name": "Mello",
+        "title": "Price",
+        "age": 26
+    },
+    {
+        "name": "John",
+        "title": "Nathan",
+        "age": 24
+    },
+    {
+        "name": "Mary",
+        "title": "Rudd",
+        "age": 25
+    }
+]
